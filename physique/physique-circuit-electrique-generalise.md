@@ -79,3 +79,97 @@ Dans un circuit en __________, tous les dipôles sont branchés l'un après l'au
 *   **Simulation interactive :** Le site [PhET](https://phet.colorado.edu/sims/html/circuit-construction-kit-dc/latest/circuit-construction-kit-dc_fr.html) de l'Université du Colorado te permet de construire tes propres circuits virtuellement. C'est génial pour tester et comprendre sans risque !
 
 **Bravo ! Tu es maintenant capable de raisonner sur les circuits. Quelle sera ta prochaine question ? On passe aux lois de l'électricité ou à un autre sujet ?** 💡
+
+Parfait ! On va reprendre ce cours passionnant sur l'électricité et le rendre encore plus clair avec nos explications et nos analogies. C'est un sujet fondamental ! ⚡
+
+### **COURS : Caractérisation du Courant Électrique (Physique-Chimie - 4ème)**
+
+**Génial ! On va enfin comprendre la différence entre tension et intensité. C'est comme comprendre la différence entre la pression et le débit d'eau dans un tuyau !**
+
+#### **EXPLICATION SIMPLIFIÉE**
+Imagine un circuit d'eau :
+*   La **TENSION** (U), mesurée en **Volts (V)**, c'est la **"pression"** électrique. C'est la force qui pousse les électrons à se déplacer. Une pile, c'est comme une **pompe à pression**.
+*   L'**INTENSITÉ** (I), mesurée en **Ampères (A)**, c'est le **"débit"** électrique. C'est la quantité d'électrons qui passent dans un fil chaque seconde. C'est le **"courant"** du courant !
+
+---
+
+#### **FICHE DE RÉVISION STRUCTURÉE
+
+**🎯 Notions clés**
+*   La tension électrique (U) est la **force motrice** qui met en mouvement les électrons. Elle se mesure **entre deux points** d'un circuit avec un **voltmètre branché en dérivation**.
+*   L'intensité du courant (I) est le **débit de charges électriques**. Elle se mesure en **un point** du circuit avec un **ampèremètre branché en série**.
+*   **Sens conventionnel vs sens réel** : Par convention, le courant va du **+ vers le -**. Mais en réalité, les électrons (négatifs) se déplacent du **- vers le +**.
+
+**📖 Vocabulaire essentiel**
+*   **Tension (U)** : Différence d'état électrique entre deux points. Unité : le **Volt (V)**.
+*   **Intensité (I)** : Quantité de charges électriques qui circulent par seconde. Unité : l'**Ampère (A)**.
+*   **Voltmètre** : Appareil pour mesurer la tension. Il se branche **en dérivation** (aux bornes du dipôle).
+*   **Ampèremètre** : Appareil pour mesurer l'intensité. Il se branche **en série** (dans le circuit).
+*   **Dipôle** : Composant électrique avec deux bornes (une lampe, un moteur, une pile...).
+
+**⚠️ Pièges fréquents**
+*   **Confondre le branchement du voltmètre et de l'ampèremètre.** C'est LA plus grande erreur !
+    *   Voltmètre = **Toujours en dérivation** (en parallèle).
+    *   Ampèremètre = **Toujours en série** (dans le fil).
+*   **Oublier que le sens conventionnel du courant (du + vers le -) est opposé au sens de déplacement des électrons (du - vers le +).**
+*   **Croire qu'on peut mesurer une tension ailleurs qu'aux bornes d'un dipôle.** Une tension se mesure toujours *entre deux points*.
+
+**🔗 Mémo visuel (Schéma mental & Branchements)**
+```
+      [ANALOGIE HYDRAULIQUE]
+          |
+          |--> TENSION (U) = Hauteur de chute, PRESSION
+          |       (La Volt-mètre se branche EN PARALLÈLE de la chute)
+          |
+          |--> INTENSITÉ (I) = Débit, quantité d'eau
+          |       (L'Ampère-mètre se branche DANS le tuyau)
+```
+
+**Schéma ASCII du branchement d'un voltmètre (Fig. 1B) :**
+```
+      [PILE]----[INTERRUPTEUR]----[LAMPE]----[PILE]
+          |                          |
+          |--------[VOLTMÈTRE]-------|
+          (Branché EN DÉRIVATION aux bornes de la lampe)
+```
+*Sens conventionnel du courant (rouge) :* De la borne + de la pile vers sa borne - à travers le circuit.
+*Sens des électrons (vert) :* De la borne - de la pile vers sa borne + à travers le circuit.
+
+---
+
+#### **EXERCICES PROGRESSIFS
+
+**Niveau 1 : Vérification de compréhension (QCM)**
+**1. Pour mesurer l'intensité du courant qui traverse une lampe, je branche un appareil :**
+a) En dérivation aux bornes de la lampe.
+b) **En série, dans le circuit, avant ou après la lampe.**
+c) N'importe comment.
+
+**2. Le sens conventionnel du courant est :**
+a) Du pôle - vers le pôle + du générateur.
+b) **Du pôle + vers le pôle - du générateur.**
+c) Identique au sens de déplacement des électrons.
+
+**Niveau 2 : Application (Texte à trous)**
+Complète le texte :
+La ______________ électrique, notée U, se mesure en ______________ avec un ______________ branché en ______________. Elle représente la force qui ______________ les électrons. L'______________ du courant, notée I, se mesure en ______________ avec un ______________ branché en ______________. Elle représente la ______________ de charges qui circulent.
+
+*(Rép. : tension - volts - voltmètre - dérivation - pousse - intensité - ampères - ampèremètre - série - quantité)*
+
+**Niveau 3 : Analyse (Situation problème)**
+**Léa veut mesurer la tension aux bornes de la pile et l'intensité du courant qui traverse la lampe du circuit de la Fig. 2A. Fais deux schémas légendés pour montrer comment elle doit brancher ses deux appareils de mesure.**
+
+→ *Indice : Pense aux règles de branchement fondamentales !*
+
+*(Réponse type :*
+*   *Pour la tension aux bornes de la pile : Elle branche le voltmètre en dérivation directement sur les bornes de la pile.*
+*   *Pour l'intensité qui traverse la lampe : Elle doit ouvrir le circuit et insérer l'ampèremètre en série, soit entre la pile et la lampe, soit entre la lampe et l'interrupteur.)*
+
+---
+
+#### **RESSOURCES MULTIMÉDIAS**
+
+*   **Vidéo courte (3-5 min) :** "[Tension et Intensité - Les Bons Profs](https://www.youtube.com/watch?v=7eDt6FSB0aE)". Ils expliquent parfaitement la différence et le branchement des appareils.
+*   **Simulation interactive :** Le site [PhET](https://phet.colorado.edu/sims/html/circuit-construction-kit-dc/latest/circuit-construction-kit-dc_fr.html) te permet de construire les circuits de la Fig. 1B et 2 et de brancher voltmètre et ampèremètre virtuellement. C'est le meilleur moyen de comprendre sans risque !
+
+**Bravo ! Tu maîtrises maintenant les deux grandeurs fondamentales de l'électricité. C'est la base pour comprendre tous les circuits !** 💡
